@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" class="">
+    <rect id="r4" width="512" height="512" x="0" y="0" rx="0" fill="#6772e5" stroke="#FFFFFF" stroke-width="0"
+          stroke-opacity="100%" paint-order="stroke"></rect>
+    <clipPath id="clip">
+        <use xlink:href="#r4"></use>
+    </clipPath>
+    <defs>
+        <linearGradient id="r5" gradientUnits="userSpaceOnUse" gradientTransform="rotate(45)"
+                        style="transform-origin: center center;">
+            <stop stop-color="#6772e5"></stop>
+            <stop offset="1" stop-color="#654EA3"></stop>
+        </linearGradient>
+        <radialGradient id="r6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(256) rotate(90) scale(512)">
+            <stop stop-color="white"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </radialGradient>
+    </defs>
+    <svg xmlns="http://www.w3.org/2000/svg" width="352" height="352" viewBox="0 0 24 24" x="80" y="80"
+         alignment-baseline="middle" style="color: rgb(255, 255, 255);">
+        <path fill="currentColor"
+              d="M13.976 9.15c-2.172-.806-3.356-1.426-3.356-2.409c0-.831.683-1.305 1.901-1.305c2.227 0 4.515.858 6.09 1.631l.89-5.494C18.252.975 15.697 0 12.165 0C9.667 0 7.589.654 6.104 1.872C4.56 3.147 3.757 4.992 3.757 7.218c0 4.039 2.467 5.76 6.476 7.219c2.585.92 3.445 1.574 3.445 2.583c0 .98-.84 1.545-2.354 1.545c-1.875 0-4.965-.921-6.99-2.109l-.9 5.555C5.175 22.99 8.385 24 11.714 24c2.641 0 4.843-.624 6.328-1.813c1.664-1.305 2.525-3.236 2.525-5.732c0-4.128-2.524-5.851-6.594-7.305h.003z"></path>
+    </svg>
+</svg>
